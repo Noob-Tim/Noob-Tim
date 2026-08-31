@@ -3,10 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Noob-Tim?tab=followers">
-    <img src="https://img.shields.io/github/followers/Noob-Tim?style=for-the-badge&logo=github&label=FOLLOWERS&color=ff00d9&labelColor=08001f" alt="GitHub followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Noob-Tim&style=for-the-badge&color=00ffe7&label=PROFILE+SIGNALS" alt="Profile views" />
+  <img src="./assets/signal-strip.svg" alt="Noob-Tim profile signal status" width="100%" />
 </p>
 
 ## `// whoami`
@@ -28,28 +25,23 @@ I build practical **AI workflows**, **security remediation automation**, and **d
 
 <p align="center">
   <a href="https://github.com/Noob-Tim/ScanRelay">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Noob-Tim&repo=ScanRelay&hide_border=true&bg_color=08001f&title_color=00ffe7&text_color=fff8e7&icon_color=ff00d9" alt="ScanRelay repository card" />
+    <img width="49%" src="./assets/project-scanrelay.svg" alt="ScanRelay repository card" />
   </a>
   <a href="https://github.com/Noob-Tim/relay">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Noob-Tim&repo=relay&hide_border=true&bg_color=08001f&title_color=00ffe7&text_color=fff8e7&icon_color=ff00d9" alt="relay repository card" />
+    <img width="49%" src="./assets/project-relay.svg" alt="relay repository card" />
   </a>
 </p>
 
 ## `// tech_loadout`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,go,rust,docker,git,githubactions,linux,vscode&theme=dark" alt="Python, TypeScript, JavaScript, Go, Rust, Docker, Git, GitHub Actions, Linux, and VS Code" />
+  <img src="./assets/tech-loadout.svg" alt="Python, TypeScript, JavaScript, Go, Rust, Docker, Git, GitHub Actions, Linux, and VS Code" width="100%" />
 </p>
 
 ## `// system_telemetry`
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Noob-Tim&show_icons=true&hide_border=true&bg_color=08001f&title_color=00ffe7&text_color=fff8e7&icon_color=ff00d9&ring_color=ff00d9" alt="Noob-Tim GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noob-Tim&layout=compact&hide_border=true&bg_color=08001f&title_color=00ffe7&text_color=fff8e7" alt="Noob-Tim top languages" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Noob-Tim&bg_color=08001f&color=00ffe7&line=ff00d9&point=fff8e7&area=true&hide_border=true" alt="Noob-Tim contribution activity graph" />
+  <img src="./assets/system-telemetry.svg" alt="Noob-Tim GitHub telemetry snapshot" width="100%" />
 </p>
 
 ## `// contribution_protocol`
