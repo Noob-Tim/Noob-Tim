@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 410" width="1200" height="410" role="img" aria-label="Noob-Tim GitHub telemetry snapshot">
+  <defs>
+    <linearGradient id="st-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08001f"/>
+      <stop offset="0.48" stop-color="#170037"/>
+      <stop offset="1" stop-color="#002a34"/>
+    </linearGradient>
+    <linearGradient id="st-border" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff00d9"/>
+      <stop offset="0.5" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#00ffe7"/>
+    </linearGradient>
+    <linearGradient id="st-wave-fill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff00d9" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#ff00d9" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="st-grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#7c3aed" stroke-width="0.65" opacity="0.19"/>
+    </pattern>
+    <filter id="st-glow" x="-30%" y="-70%" width="160%" height="240%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="2" y="2" width="1196" height="406" rx="14" fill="url(#st-bg)" stroke="url(#st-border)" stroke-width="3"/>
+  <rect x="3" y="3" width="1194" height="404" rx="13" fill="url(#st-grid)"/>
+  <path d="M24 24h60M24 24v42M1176 24h-60M1176 24v42M24 386h60M24 386v-42M1176 386h-60M1176 386v-42" fill="none" stroke="#00ffe7" stroke-width="2" opacity="0.8"/>
+
+  <g font-family="'JetBrains Mono', Consolas, monospace">
+    <text x="46" y="42" fill="#ff00d9" font-size="10" letter-spacing="3">SYSTEM TELEMETRY // GITHUB API SNAPSHOT</text>
+    <text x="1154" y="42" text-anchor="end" fill="#8b7fb8" font-size="9" letter-spacing="2">CAPTURED 2026-08-31</text>
+
+    <g transform="translate(46,63)">
+      <rect width="254" height="102" rx="9" fill="#08001f" fill-opacity="0.72" stroke="#00ffe7" stroke-opacity="0.55"/>
+      <text x="20" y="27" fill="#8b7fb8" font-size="9" letter-spacing="2">PUBLIC REPOSITORIES</text>
+      <text x="20" y="74" fill="#00ffe7" font-size="40" font-weight="800" filter="url(#st-glow)">28</text>
+      <text x="104" y="73" fill="#fff8e7" font-size="11" letter-spacing="2">REPOS ONLINE</text>
+    </g>
+    <g transform="translate(330,63)">
+      <rect width="254" height="102" rx="9" fill="#08001f" fill-opacity="0.72" stroke="#ff00d9" stroke-opacity="0.55"/>
+      <text x="20" y="27" fill="#8b7fb8" font-size="9" letter-spacing="2">CONTRIBUTIONS // 365D</text>
+      <text x="20" y="74" fill="#ff00d9" font-size="40" font-weight="800" filter="url(#st-glow)">31</text>
+      <text x="104" y="73" fill="#fff8e7" font-size="11" letter-spacing="2">SIGNALS SENT</text>
+    </g>
+    <g transform="translate(614,63)">
+      <rect width="254" height="102" rx="9" fill="#08001f" fill-opacity="0.72" stroke="#c4b5fd" stroke-opacity="0.55"/>
+      <text x="20" y="27" fill="#8b7fb8" font-size="9" letter-spacing="2">ACTIVE DAYS // 365D</text>
+      <text x="20" y="74" fill="#c4b5fd" font-size="40" font-weight="800" filter="url(#st-glow)">20</text>
+      <text x="104" y="73" fill="#fff8e7" font-size="11" letter-spacing="2">DAYS IN MOTION</text>
+    </g>
+    <g transform="translate(898,63)">
+      <rect width="256" height="102" rx="9" fill="#08001f" fill-opacity="0.72" stroke="#00ffe7" stroke-opacity="0.55"/>
+      <text x="20" y="27" fill="#8b7fb8" font-size="9" letter-spacing="2">PEAK DAY // 365D</text>
+      <text x="20" y="74" fill="#00ffe7" font-size="40" font-weight="800" filter="url(#st-glow)">04</text>
+      <text x="104" y="73" fill="#fff8e7" font-size="11" letter-spacing="2">COMMITS MAX</text>
+    </g>
+
+    <text x="46" y="204" fill="#00ffe7" font-size="10" letter-spacing="3">CODE SPECTRUM // PUBLIC NON-FORK REPOSITORIES</text>
+    <g transform="translate(46,222)">
+      <rect width="1108" height="24" rx="5" fill="#08001f" stroke="#7c3aed" stroke-opacity="0.5"/>
+      <path d="M2 2h814v20H2z" fill="#f7df1e" opacity="0.9"/>
+      <path d="M816 2h133v20H816z" fill="#3776ab" opacity="0.95"/>
+      <path d="M949 2h55v20h-55z" fill="#42b883" opacity="0.95"/>
+      <path d="M1004 2h55v20h-55z" fill="#38bdf8" opacity="0.9"/>
+      <path d="M1059 2h47v20h-47z" fill="#ff00d9" opacity="0.9"/>
+    </g>
+    <g transform="translate(46,266)" font-size="10" letter-spacing="1.4">
+      <circle cx="5" cy="-4" r="5" fill="#f7df1e"/><text x="18" fill="#fff8e7">JAVASCRIPT 74%</text>
+      <circle cx="205" cy="-4" r="5" fill="#3776ab"/><text x="218" fill="#fff8e7">PYTHON 12%</text>
+      <circle cx="365" cy="-4" r="5" fill="#42b883"/><text x="378" fill="#fff8e7">VUE 5%</text>
+      <circle cx="475" cy="-4" r="5" fill="#38bdf8"/><text x="488" fill="#fff8e7">CSS 5%</text>
+      <circle cx="575" cy="-4" r="5" fill="#ff00d9"/><text x="588" fill="#fff8e7">EJS 4%</text>
+    </g>
+
+    <text x="46" y="306" fill="#ff00d9" font-size="10" letter-spacing="3">CONTRIBUTION PULSE // LAST 365 DAYS</text>
+    <text x="1154" y="306" text-anchor="end" fill="#8b7fb8" font-size="9" letter-spacing="2">STATIC SNAPSHOT · OFFICIAL API SOURCE</text>
+  </g>
+
+  <g transform="translate(46,321)">
+    <line x1="0" y1="44" x2="1108" y2="44" stroke="#7c3aed" stroke-width="1" opacity="0.5"/>
+    <line x1="0" y1="14" x2="1108" y2="14" stroke="#7c3aed" stroke-width="0.7" opacity="0.25" stroke-dasharray="5 8"/>
+    <path d="M0 44 L42 44 L55 36 L68 44 L126 44 L140 30 L153 44 L202 44 L216 39 L230 44 L276 44 L289 22 L302 44 L348 44 L362 34 L376 44 L421 44 L434 10 L448 44 L490 44 L504 28 L518 44 L562 44 L576 39 L590 44 L638 44 L651 18 L664 44 L710 44 L724 31 L738 44 L784 44 L798 37 L812 44 L858 44 L872 25 L886 44 L932 44 L946 35 L960 44 L1006 44 L1020 14 L1034 44 L1108 44 L1108 66 L0 66 Z" fill="url(#st-wave-fill)"/>
+    <path d="M0 44 L42 44 L55 36 L68 44 L126 44 L140 30 L153 44 L202 44 L216 39 L230 44 L276 44 L289 22 L302 44 L348 44 L362 34 L376 44 L421 44 L434 10 L448 44 L490 44 L504 28 L518 44 L562 44 L576 39 L590 44 L638 44 L651 18 L664 44 L710 44 L724 31 L738 44 L784 44 L798 37 L812 44 L858 44 L872 25 L886 44 L932 44 L946 35 L960 44 L1006 44 L1020 14 L1034 44 L1108 44" fill="none" stroke="#ff00d9" stroke-width="2.5" filter="url(#st-glow)"/>
+    <circle cx="434" cy="10" r="4" fill="#00ffe7" filter="url(#st-glow)">
+      <animate attributeName="r" values="3;6;3" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1020" cy="14" r="4" fill="#00ffe7" filter="url(#st-glow)">
+      <animate attributeName="r" values="6;3;6" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
